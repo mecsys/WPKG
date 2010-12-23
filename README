@@ -6,7 +6,7 @@ README		- este arquivo
 COPYING		- licenca GPLv2
 host.xml        - lista de hosts, para config de profiles
 profiles.xml    - lista de profiles, para administracao de hosts
-packages.xml    - lista de pacotes ou scripts a ser aplicados
+packages.xml    - lista de pacotes ou scripts a ser aplicados.
 
 Cada diretorio com o mesmo nome de arquivos de configuracao, aplica
 configuracoes separadas ou exclusivas.
