@@ -11,6 +11,9 @@ packages.xml    - lista de pacotes ou scripts a ser aplicados.
 Cada diretorio com o mesmo nome de arquivos de configuracao, aplica
 configuracoes separadas ou exclusivas.
 
+Este projeto visa criar base de configuração do WPKG nas plataformas
+Windows XP e Windows 7.
+
 All programs or files are copyright (C) 2010-11 Isaac Mechi
 (IsaacMechi@Gmail.COM) and released under the following terms:
 
